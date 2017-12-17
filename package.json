@@ -1,0 +1,16 @@
+{
+  "name": "fails",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/develop-sebastian/fails.git",
+  "author": "Sebastián Salata R-T <sa.salatart@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "dependencies": {
+    "eslint": "^4.13.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0"
+  }
+}
